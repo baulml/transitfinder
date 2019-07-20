@@ -1,2 +1,4 @@
 # visualTP
-Visualization tool for transit photometry
+__Visualization tool for transit photometry__
+
+![transit](/transit.gif) 
