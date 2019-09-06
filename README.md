@@ -19,7 +19,7 @@ pip3 install tkinter
 
 ### Usage
 ```python
-python3 subplot.py
+python3 visualTP.py
 ```
 Select Kepler or TESS product in fits format
 
