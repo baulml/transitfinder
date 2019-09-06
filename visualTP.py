@@ -1,26 +1,19 @@
 import sys
-import os
-import warnings
 import numpy as np
 import matplotlib.pyplot as plt
 from astropy import units as u
 from astropy.timeseries import BoxLeastSquares
 from astropy.stats import sigma_clipped_stats
-from astropy.table import Table
 from astropy.timeseries import TimeSeries
-from astropy.time import Time, TimeDelta
 from astropy.timeseries import aggregate_downsample
 from astropy.io import registry, fits
 import tkinter as tk
 from tkinter import filedialog
 np.set_printoptions(threshold=sys.maxsize)
 
-
 root = tk.Tk()
 root.withdraw()
 filepath = filedialog.askopenfilename()
-
-
 
 hdulist = fits.open(filepath)
 telescope = hdulist[0].header['telescop'].lower()
@@ -30,7 +23,6 @@ if telescope == 'tess':
     tessID = str(hdulist[1].header['TICID'])
     print(tessID)
     ts = TimeSeries.read(filepath, format='tess.fits')
-
 elif telescope == 'kepler':
     hdu = hdulist[1]
     print("Kepler file recognized")
@@ -40,14 +32,12 @@ elif telescope == 'kepler':
 else:
     raise NotImplementedError("{} is not implemented, only KEPLER or TESS are "
                                   "supported through this reader".format(hdulist[0].header['telescop']))
-
 fig, axs = plt.subplots(2, 2)
 if telescope == 'tess':
     fig.suptitle('TESS Id:' +tessID, fontsize=15)
 if telescope == 'kepler':
     fig.suptitle('Kepler Id:' + keplerID, fontsize=15)
 fig.set_size_inches(18.5, 10.5)
-
 
 #full data plot
 axs[0, 0].plot(ts.time.jd, ts['sap_flux'], 'k.', markersize=1, label='whole')
