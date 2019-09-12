@@ -1,5 +1,5 @@
 # visualTP
-> Visualization tool for transit photometry with Kepler and TESS
+> Visualization tool for analyzing lightcurves from Kepler and TESS
 
 ### Requirements
   * Python 3
