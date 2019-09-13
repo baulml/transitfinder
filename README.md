@@ -21,7 +21,7 @@ pip3 install tkinter
 ```python
 python3 visualTP.py
 ```
-> Select Kepler or TESS lightcurves in fits format
+> Select Kepler or TESS lightcurve in fits format
 
 
 ![transit](/media/visualTP.png) 
