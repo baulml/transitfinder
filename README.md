@@ -25,7 +25,7 @@ python3 visualTP.py
 
 ### To Do
 - [ ] MAST query integration
-- [ ] TESS id on plot
+- [x ] TESS id on plot
 - [ ] x,y axes scaling
 
 
