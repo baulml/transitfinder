@@ -45,7 +45,6 @@ axs[0, 0].set_xlabel('Julian Date')
 axs[0, 0].set_ylabel('SAP Flux (e-/s)')
 axs[0, 0].set_title('full data')
 
-
 #folded time series
 periodogram = BoxLeastSquares.from_timeseries(ts, 'sap_flux')
 results = periodogram.autopower(0.1 * u.day)
