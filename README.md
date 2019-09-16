@@ -24,10 +24,11 @@ python3 visualTP.py
 > Select Kepler or TESS lightcurve in fits format
 
 ### To Do
+- [ ] Transit computation
 - [ ] MAST query integration
 - [x] TESS id on plot
 - [ ] x,y axes scaling
-
+- [ ] image export
 
 
 
