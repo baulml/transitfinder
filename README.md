@@ -1,5 +1,6 @@
 # visualTP
 > Visualization tool for analyzing lightcurves from Kepler and TESS
+> work in progress
 
 ### Requirements
   * Python 3
