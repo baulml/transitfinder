@@ -1,5 +1,5 @@
 # visualTP
-> Visualization tool for analyzing lightcurves from TESS and Kepler missons
+> Visualization tool for analyzing lightcurves from TESS and Kepler missions
 - work in progress
 
 ### Requirements
