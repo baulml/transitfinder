@@ -31,6 +31,11 @@ python3 visualTP.py
 - [ ] x,y axes scaling
 - [ ] image export
 
-
+###Visualization
 
 ![transit](/media/visualTP.png) 
+
+###Transit classification
+
+![transit](/media/classification.png) 
+
