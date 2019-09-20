@@ -1,5 +1,5 @@
 # visualTP
-> Transit finder and visualization tool for Kepler and TESS light curves
+> Transit finder and Visualization tool for Kepler and TESS light curves
 - work in progress
 
 ### Requirements
