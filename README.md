@@ -1,6 +1,6 @@
 # visualTP
-> Transit finder and Visualization tool for Kepler and TESS light curves
-- work in progress
+> Visualization tool and Transit finder for Kepler and TESS light curves
+- Work in Progress
 
 ### Requirements
   * Python 3
@@ -25,9 +25,9 @@ python3 visualTP.py
 > Select Kepler or TESS lightcurve in fits format
 
 ### To Do
+- [x] TESS id on plot
 - [ ] Transit computation
 - [ ] MAST query integration
-- [x] TESS id on plot
 - [ ] x,y axes scaling
 - [ ] image export
 
