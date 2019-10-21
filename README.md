@@ -1,4 +1,4 @@
-# visualTP
+# visualTP - Transit Photometry Analysis
 > Visualization tool and Transit finder for Kepler and TESS light curves
 - Work in Progress
 
