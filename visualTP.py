@@ -75,3 +75,6 @@ def main():
     axs[1, 1].set_title('transit model')
     
     plt.show()
+
+if __name__ == "__main__":
+    main()
