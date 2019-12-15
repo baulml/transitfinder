@@ -1,5 +1,7 @@
-## Transit Photometry Analysis  ...Work In Progress...
+## Transit Photometry Analysis 
 > Transit finder and Visualization tool for Kepler and TESS light curves
+
+> Work In Progress!
 
 ### Requirements
   * Python 3
