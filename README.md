@@ -1,6 +1,5 @@
-# visualTP
-### Transit Photometry Analysis
-> Visualization tool and Transit finder for Kepler and TESS light curves
+## Transit Photometry Analysis
+> Transit finder and Visualization tool for Kepler and TESS light curves
 
 ### Requirements
   * Python 3
