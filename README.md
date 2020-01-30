@@ -1,4 +1,7 @@
-## Transit Photometry Analysis 
+![transit](/media/transitfinder.png) 
+
+
+
 > Work In Progress
 ### Requirements
   * Python 3
