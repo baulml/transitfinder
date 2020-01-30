@@ -1,7 +1,7 @@
 ![transit](/media/transitlogo.png) 
 
 # Transitfinder
-###work in progress
+### work in progress
 
 > Transit finder and Visualization tool for Kepler and TESS light curves
 
