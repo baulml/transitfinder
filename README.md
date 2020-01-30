@@ -1,4 +1,4 @@
-![transit](/media/transitfinder.png) 
+![transit](/media/transitlogo.png) 
 
 
 
