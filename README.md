@@ -5,9 +5,7 @@
 
 > Transit finder and Visualization tool for Kepler and TESS light curves
 
-.. image:: http://img.shields.io/badge/powered%20by-AstroPy-orange.svg?style=flat
-    :target: http://www.astropy.org
-    :alt: Powered by Astropy Badge
+[![Astropy]http://img.shields.io/badge/powered%20by-AstroPy-orange.svg?style=flat
     
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
