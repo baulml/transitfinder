@@ -26,7 +26,7 @@ python3 transit.py
 ```
 > Select Kepler or TESS lightcurve in fits format
 
-### Visualization
+### Transit search
 
 ![transit](/media/visualTP.png) 
 
