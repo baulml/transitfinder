@@ -20,7 +20,7 @@
 ```sh
 git clone https://github.com/paulhldbrndt/transitfinder.git
 ```
-3. Install required libraries
+2. Install required libraries
 ```sh
 cd transitfinder
 pip3 install -e .
