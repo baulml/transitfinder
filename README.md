@@ -13,12 +13,17 @@
   * Astropy
   * Matplotlib
   * Tkinter
+  
 ### Installation
-```python
-pip3 install numpy
-pip3 install astropy
-pip3 install matplotlib
-pip3 install tkinter
+
+1. Clone the repo
+```sh
+git clone https://github.com/paulhldbrndt/transitfinder.git
+```
+3. Install required libraries
+```sh
+cd transitfinder
+pip install -e .
 ```
 ### Usage
 ```python
