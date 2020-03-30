@@ -23,7 +23,7 @@ git clone https://github.com/paulhldbrndt/transitfinder.git
 3. Install required libraries
 ```sh
 cd transitfinder
-pip install -e .
+pip3 install -e .
 ```
 ### Usage
 ```python
