@@ -1,11 +1,11 @@
 ![transit](/media/transitlogo.png) 
 
-# Transitfinder
+# Transit finder
 ### work in progress
 
 > Transit finder and Visualization tool for Kepler and TESS light curves
 
-![Astropy](http://img.shields.io/badge/powered%20by-AstroPy-orange.svg?style=flat) ![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)
+![Astropy](http://img.shields.io/badge/powered%20by-AstroPy-orange.svg?style=flat)
 
 ### Requirements
   * Python 3
