@@ -16,7 +16,7 @@
 
 1. Clone the repo
 ```sh
-git clone https://github.com/paulhldbrndt/transitfinder.git
+git clone https://github.com/baulml/transitfinder.git
 ```
 2. Install required libraries
 ```sh
